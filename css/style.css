@@ -1,0 +1,74 @@
+*{
+     margin: 0;
+     padding: 0;
+ }
+#navId{
+    background-color: rgb(39,174,96);
+    padding-top: 20px;
+}
+#dd{
+    color: white;
+}
+#icoFont{
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
+#choice li a{
+    color: white;
+    text-align: center;
+}
+#jumbo{
+    text-align: center;
+    background-color: rgb(39,174,96);
+    color: white;
+}
+ #inputDiv{
+    margin: 30px auto;
+}
+ #inputDiv input{
+     text-align: center;
+ }
+input::-ms-input-placeholder{text-align: center;}
+input::-moz-placeholder{text-align: center;}
+input::-webkit-input-placeholder{text-align: center;}
+
+.content{
+    width: 80%;
+    margin: 10px auto;
+}
+#seeMore{
+    color: rgba(11,145,18,0.99);
+    text-align: center;
+}
+footer{
+    background-color: rgb(39,174,96);
+    color: white;
+}
+.footerWrap{
+    width: 80%;
+    margin: 10px auto;
+}
+#friendLink a{
+    display: block;
+    color: white;
+    font-size: 14px;
+    line-height: 25px;
+}
+#weNeed a{
+    display: inline-block;
+    color: white;
+    font-size: 14px;
+    line-height: 25px;
+}
+.goTop{
+    background: rgba(7,145,34,0.69);
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
